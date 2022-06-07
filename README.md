@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArthurSenpaii
+- 👋 Hi, I’m @ArthurRochette
 - 📚 I’m a computer science student
 - 🐙 My github is like a window into my works, and personal projects
 - 💻 I'm working on many languages (C++/C/C#/javascript)
