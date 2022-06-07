@@ -5,15 +5,17 @@
 
 Take a look ^_^
 
+### [Mandelbrot Fractal](https://github.com/ArthurSenpaii/Mandelbrot-Fractal)
+
+
+<img src="https://raw.githubusercontent.com/ArthurRochette/Mandelbrot-Fractal/Threading/example.png" alt="MandelBrot fractal" style="width:800px;"/>
+
 
 ### [Fast Sorting](https://github.com/ArthurSenpaii/FastSorting)
 
 [![Fast Sorting](https://raw.githubusercontent.com/ArthurSenpaii/FastSorting/main/img.png)](https://github.com/ArthurSenpaii/FastSorting)
 
 
-### [Mandelbrot Fractal](https://github.com/ArthurSenpaii/Mandelbrot-Fractal)
-
-[![MandelBrot fractal](https://raw.githubusercontent.com/ArthurSenpaii/Mandelbrot-Fractal/Threading/Mandelbrot.bmp)](https://github.com/ArthurSenpaii/Mandelbrot-Fractal)
 
 
 ### [GameOfLife](https://github.com/ArthurSenpaii/Game-Of-life)
