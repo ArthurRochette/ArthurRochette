@@ -22,9 +22,9 @@
 <img src="https://raw.githubusercontent.com/ArthurRochette/Mandelbrot-Fractal/Threading/example.png" alt="MandelBrot fractal" style="width:800px;"/>
 
 
-### [Fast Sorting](https://github.com/ArthurSenpaii/FastSorting)
+### [Foldit](https://github.com/ArthurSenpaii/Foldit)
 
-<img src="https://raw.githubusercontent.com/ArthurSenpaii/FastSorting/main/img.png" alt="Fast Sorting" style="width:450px;"/>
+<img src="https://raw.githubusercontent.com/ArthurRochette/Foldit/main/foldit_example.png" alt="Fast Sorting" style="width:450px;"/>
 
 
 ### [GameOfLife](https://github.com/ArthurSenpaii/Game-Of-life)
