@@ -13,21 +13,3 @@
     <img src="https://media.giphy.com/media/UXGSeWDVwv1ug/giphy.gif" width=300>
   </p>
 </div>
-
-
-
-### [Mandelbrot Fractal](https://github.com/ArthurSenpaii/Mandelbrot-Fractal)
-
-
-<img src="https://raw.githubusercontent.com/ArthurRochette/Mandelbrot-Fractal/Threading/example.png" alt="MandelBrot fractal" style="width:800px;"/>
-
-
-### [Foldit](https://github.com/ArthurSenpaii/Foldit)
-
-<img src="https://raw.githubusercontent.com/ArthurRochette/Foldit/main/foldit_example.png" alt="Fast Sorting" style="width:450px;"/>
-
-
-### [GameOfLife](https://github.com/ArthurSenpaii/Game-Of-life)
-
-
-<img src="https://raw.githubusercontent.com/ArthurSenpaii/Game-Of-life/main/gol.png" alt="Game Of Life" style="width:400px;"/>
