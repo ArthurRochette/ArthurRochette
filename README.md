@@ -1,25 +1,5 @@
 <h2 align="left"href="https://github.com/ArthurRochette/" >Hi 👋! My name is Arthur and I'm a fullstack software architect from France 🇫🇷️ </h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurrochette&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide=HTML,javascript,jupyter notebook&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
-    </td>
-  </tr>
-
-</table>
-
-
 <div>
 I'm actually studying at Epitech Lille, a french IT school. I will be graduating in 2024 with a master certificate in software engineering, with an AI specialization.
 I'm also working in healthtech as a fullstack software architect at <a href="https://www.centreoscarlambret.fr/">Oscar Lambret</a>.
