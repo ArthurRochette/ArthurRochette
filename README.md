@@ -1,4 +1,4 @@
-<h2 align="left"href="https://github.com/ArthurRochette/" >Hi 👋! My name is Arthur and I'm a fullstack software architect from France 🇫🇷️ </h2>
+<h2 align="left"href="https://github.com/ArthurRochette/" >Hi 👋! <br> My name is Arthur and I'm a fullstack software architect from France 🇫🇷️ </h2>
 
 <div>
 I'm actually studying at Epitech Lille, a french IT school. I will be graduating in 2024 with a master certificate in software engineering, with an AI specialization.
