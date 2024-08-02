@@ -1,8 +1,7 @@
 <h2 align="left"href="https://github.com/ArthurRochette/" >Hi 👋! <br> My name is Arthur and I'm an engineer in computer science in medical physics from France 🇫🇷️ </h2>
 
 <div>
-I'm actually studying at Epitech Lille, a french IT school. I will be graduating in 2024 with a master certificate in software engineering, with an AI specialization.
-I'm also working in healthtech, especially in medical physics, as engineer at <a href="https://www.centreoscarlambret.fr/">Oscar Lambret</a>.
+I'm working in healthtech, especially in medical physics, as engineer at <a href="https://www.centreoscarlambret.fr/">Oscar Lambret</a>.
 </div>
 
 <h2 align="left">My projects</h2>
