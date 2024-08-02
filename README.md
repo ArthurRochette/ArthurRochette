@@ -9,7 +9,7 @@ I'm actually learning <a href="https://www.rust-lang.org/fr">RUST</a> on my free
 I also enhance my knowledge in physics (who fit with my actual job) learning <a href="https://geant4.web.cern.ch/"> Geant 4</a>.
 
 ###
-<h2>Language and tools</h2>
+<h2>Languages and tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo"/>
